@@ -1,20 +1,19 @@
 # flaxo
 
-> building developer tools from Türkiye — reading, writing, and creating things that save time
+building developer tools from Türkiye, reading, writing, and creating things that save time
 
 ---
 
-## 👋 about
+## about
 
 I build developer tools from Türkiye. I'm obsessed with creating tools that save developers time and remove friction from their workflows. When I'm not coding, I'm reading, writing, or thinking about life philosophy.
 
-- 📍 Türkiye
-- 🔗 [github.com/flaxodotdev](https://github.com/flaxodotdev)
-- 🛠️ Developer tools · Open source · Database systems · RBAC · Full-stack development
+- Türkiye
+- Developer tools · Open source · Database systems · RBAC · Full-stack development
 
 ---
 
-## 🚀 projects
+## projects
 
 ### [RexaDB](https://reaxadb.app)
 
@@ -31,31 +30,3 @@ RBAC system designed to remove friction from integrating role-based access contr
 - [usekeyring.dev](https://usekeyring.dev) · [github](https://github.com/UseKeyring/keyring)
 
 > "I've talked to a lot of friends who got rage baited by building a decent RBAC system for each and every app, and this was for them — it's meant to remove all friction in integrating RBAC systems into any app."
-
----
-
-## 💼 experience
-
-**Developer Tools**
-- Building open source developer tools including database clients and authentication systems
-- Focused on creating tools that solve real workflow problems and save developers time
-
-**Transportation & Education**
-- Previous work across various environments including transportation apps and educational platforms
-- Discovered my passion for developer tools through these diverse experiences
-
----
-
-## 🛠️ skills
-
-Developer tools · Open source · Database systems · RBAC · Full-stack development · Product design
-
----
-
-## 📬 available
-
-Available for interesting developer tools projects.
-
----
-
-*"I really like pizza and burgers (I guess this is enough personal yap ^_^)"*
