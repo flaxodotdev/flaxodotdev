@@ -29,4 +29,4 @@ RBAC system designed to remove friction from integrating role-based access contr
 
 - [usekeyring.dev](https://usekeyring.dev) · [github](https://github.com/UseKeyring/keyring)
 
-> "I've talked to a lot of friends who got rage baited by building a decent RBAC system for each and every app, and this was for them — it's meant to remove all friction in integrating RBAC systems into any app."
+> "I've talked to a lot of friends who got rage baited by building a decent RBAC system for each and every app, and this was for them, it's meant to remove all friction in integrating RBAC systems into any app."
