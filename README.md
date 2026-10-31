@@ -19,7 +19,7 @@ I build developer tools from Türkiye. I'm obsessed with creating tools that sav
 
 Database client built to solve my own workflow problems. Open source SaaS that saves time for developers who need better database tools.
 
-- [reaxadb.app](https://reaxadb.app) · [github](https://github.com/RexaDB/RexaDB)
+- [reaxadb.app](https://rexadb.app) · [github](https://github.com/RexaDB/RexaDB)
 
 > "It started as a me problem. Other database clients gave me so much trouble that I decided to build my own. I spent a long time on it, maybe more time than those tools were wasting me. That's fine. I think about it this way: if I spend a month building something that later saves me three days every month, I didn't really waste that time."
 
