@@ -1,4 +1,4 @@
-# flaxo
+w# flaxo
 
 building developer tools from Türkiye, reading, writing, and creating things that save time
 
@@ -15,7 +15,7 @@ I build developer tools from Türkiye. I'm obsessed with creating tools that sav
 
 ## projects
 
-### [RexaDB](https://reaxadb.app)
+### [RexaDB](https://rexadb.app)
 
 Database client built to solve my own workflow problems. Open source SaaS that saves time for developers who need better database tools.
 
